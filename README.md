@@ -1,4 +1,4 @@
-# al-lab7-threaded-multitasking
+# al-lab-7-threaded-multitasking
 Laboratory work 7. Studying streaming multitasking.
 
 ## Report
